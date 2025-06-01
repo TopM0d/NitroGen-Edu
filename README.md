@@ -10,7 +10,6 @@
 
 This script generates random Discord Nitro codes and optionally checks if they're valid using Discord's API.
 
-> ⚠️ The chance of generating a valid Nitro code is effectively **zero** due to Discord's security and code format randomness.
 
 ## 📦 Features
 
